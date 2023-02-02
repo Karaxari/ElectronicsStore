@@ -1,0 +1,8 @@
+﻿  Appliances.cpp
+  ElectronicsStore.cpp
+  HybridDevices.cpp
+C:\Users\Karak\source\repos\ElectronicsStore\ElectronicsStore\HybridDevices.cpp(5,151): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  IStore.cpp
+  PortableEquipment.cpp
+  Создание кода...
+  ElectronicsStore.vcxproj -> C:\Users\Karak\source\repos\ElectronicsStore\Debug\ElectronicsStore.exe
